@@ -3,3 +3,4 @@
 myenv
 __pycache__
 hrsd.txt
+streamlit/.env
